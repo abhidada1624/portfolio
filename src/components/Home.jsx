@@ -15,9 +15,9 @@ const Home = () => {
             I'm a Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 months of experience building and desgining software.
+            I have 8 months of experience for building and designing software.
             Currently, I love to work on web application using technologies like
-            React, Tailwind and Javascript framewoeks.
+            React, Tailwind and Javascript frameworks.
           </p>
           <div>
             <Link
